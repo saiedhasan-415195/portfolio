@@ -29,6 +29,9 @@ nav li{
     list-style: none;
     margin-left: 50px;
 }
+nav li:hover{
+    color:red;
+}
 .btn-primary{
     color: #FFFFFF;
     font-weight: 700;
@@ -53,6 +56,12 @@ nav li{
     color: #474747;
     
 }
+.image:hover{
+    left: 10px;
+    right: 10px;
+}
+
+
 .saied{
     font-weight: 700;
     font-size: 65px;
